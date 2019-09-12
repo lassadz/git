@@ -1,2 +1,2 @@
 # git
-demo training 1
+demo training 2
